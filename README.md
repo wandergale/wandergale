@@ -23,4 +23,7 @@
   <a href="https://www.linkedin.com/in/wanderson-oliveira-077943210/" targe="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="_blank"></a>
   <a href="https://www.reddit.com/user/wandergale" targe="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" taget="_blank"></a>
   <a href="mailto:wandersonlife7@gmail.com" targe="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" taget="_blank"></a>
+  
+  ![Snake animation](https://github.com/wandergale/wandergale/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
