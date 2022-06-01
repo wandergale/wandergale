@@ -1,7 +1,7 @@
 ## Hello i'm Wanderson 👋
 
 
-- 🐍 I’m currently learning: Django
+- 🐍 I’m currently learning: NodeJS
 - 📫 How to reach me: wandersonlife7@gmail.com
 
 <div>
