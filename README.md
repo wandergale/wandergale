@@ -20,10 +20,10 @@
     <img align="center" alt="Wander-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3">
     <img align="center" alt="Wander-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT">
     <img align="center" alt="Wander-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NODEJS">
-
 </div>
   
- ##
+  
+  ##
   
 <div>
   <a href="https://www.instagram.com/wanderson.gale/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,5 +32,4 @@
   <a href="mailto:wandersonlife7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" taget="_blank"></a>
   
   ![Snake animation](https://github.com/wandergale/wandergale/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
