@@ -4,10 +4,12 @@
 - 🐍 I’m currently learning: NodeJS
 - 📫 How to reach me: wandersonlife7@gmail.com
 
+  ## 
+  
 <div>
   <a href="https://github.com/wandergale">
-   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wandergale&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wandergale&layout=compact&langs_count=8&theme=dark">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandergale&show_icons=True&theme=github_dark&include_all_commits=true&count_private=true">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandergale&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   ##
@@ -31,5 +33,5 @@
   <a href="mailto:wandersonlife7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" taget="_blank"></a>
   
   ![Snake animation](https://github.com/wandergale/wandergale/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
