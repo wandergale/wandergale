@@ -6,8 +6,8 @@
   ##
 <div>
   <a href="https://github.com/wandergale">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wandergale&show_icons=True&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandergale&layout=compact&theme=github_dark&hide_border=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wandergale&show_icons=True&theme=github_dark&&include_all_commits=true&count_private=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandergale&layout=compact&theme=github_dark">
 </div>
   
   ##
