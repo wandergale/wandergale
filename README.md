@@ -16,6 +16,7 @@
     <img align="center" alt="Wander-JavaScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JAVASCRIPT">
     <img align="center" alt="Wander-NodeJs" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="NODEJS"/>
     <img  align="center" alt="Wander-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="REACT"/>
+  <img  align="center" alt="Wander-TS" height="40" width="50" src="https://static-production.npmjs.com/255a118f56f5346b97e56325a1217a16.svg" title="TYPESCRIPT"/>
   <img align="center" alt="Wander-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="JAVA" />
     <img align="center" alt="Wander-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="SPRING"/>
 </div>
