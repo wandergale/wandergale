@@ -1,7 +1,7 @@
 ## Hello i'm Wanderson 👋
 
 - 📫 How to reach me: wandersonlife7@gmail.com
-- 🔭 Currently working on [Niceplanet](https://niceplanet.com.br/) as a fullstack developer
+<!-- - 🔭 Currently working on [Niceplanet](https://niceplanet.com.br/) as a fullstack developer -->
 
 <div>
   <a href="https://github.com/wandergale">
